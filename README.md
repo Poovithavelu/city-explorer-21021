@@ -1,1 +1,3 @@
-# city-explorer-21021
+# Project Repository
+
+This is the initial README file for the project.
